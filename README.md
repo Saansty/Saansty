@@ -1,10 +1,10 @@
 <h1> Hey  What's up?</h1>
 
 
-<p> I'm Henrique "Henga" Valicente, I'm a HTML, CSS3 and JavaScript student. Always studying to improve my knowledge .. <p>
+<p> I'm "Saansty", I'm a HTML, CSS3 and JavaScript student. Always studying to improve my knowledge .. <p>
 
 ## About me
-- 📍  From - Brazil, Belo Horizonte.
+- 📍  From - Brazil, Nova Andradina.
 - ✨ I've been in the programming world since 2020.
 - 📚 I am currently learning Lua, Css3, Html5 and JavaScript.
 - 🎯 Goals: Learn a lot about programming and develop my ideas.
